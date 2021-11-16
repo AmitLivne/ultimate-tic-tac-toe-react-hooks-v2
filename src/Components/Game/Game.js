@@ -94,7 +94,7 @@ const Game = props => {
     let isWinningPattern = false;
     winningPatterns.forEach(pattern => {
       if (pattern.every(idx => board[globalSqIdx][idx] === player)) {
-        isWinningPattern = !isWinningPattern;
+        isWinningPattern = true;
       }
     });
     if (isWinningPattern) {
@@ -112,7 +112,7 @@ const Game = props => {
           })
         )
       ) {
-        isWinningPattern = !isWinningPattern;
+        isWinningPattern = true;
       }
     });
     if (isWinningPattern) setWin();
@@ -201,6 +201,8 @@ const Game = props => {
     setWonBoards([]);
     setModal(null);
     setMovesCount({ X: 0, O: 0 });
+    setPlayableBoards(boardIdxsArray);
+    setUnfilledBoards(boardIdxsArray);
   };
 
   const setLocalStorageHighScores = () => {
