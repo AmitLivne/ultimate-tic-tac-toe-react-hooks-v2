@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ultimate-tic-tac-toe-react-hooks/static/js/main.bcd89ce4.chunk.js",
-    "main.js.map": "/ultimate-tic-tac-toe-react-hooks/static/js/main.bcd89ce4.chunk.js.map",
-    "runtime-main.js": "/ultimate-tic-tac-toe-react-hooks/static/js/runtime-main.630dae72.js",
-    "runtime-main.js.map": "/ultimate-tic-tac-toe-react-hooks/static/js/runtime-main.630dae72.js.map",
-    "static/js/2.b889af25.chunk.js": "/ultimate-tic-tac-toe-react-hooks/static/js/2.b889af25.chunk.js",
-    "static/js/2.b889af25.chunk.js.map": "/ultimate-tic-tac-toe-react-hooks/static/js/2.b889af25.chunk.js.map",
-    "static/js/3.ff9531fe.chunk.js": "/ultimate-tic-tac-toe-react-hooks/static/js/3.ff9531fe.chunk.js",
-    "static/js/3.ff9531fe.chunk.js.map": "/ultimate-tic-tac-toe-react-hooks/static/js/3.ff9531fe.chunk.js.map",
-    "index.html": "/ultimate-tic-tac-toe-react-hooks/index.html",
-    "static/js/2.b889af25.chunk.js.LICENSE.txt": "/ultimate-tic-tac-toe-react-hooks/static/js/2.b889af25.chunk.js.LICENSE.txt"
+    "main.js": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/main.662cfd07.chunk.js",
+    "main.js.map": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/main.662cfd07.chunk.js.map",
+    "runtime-main.js": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/runtime-main.dc8caa15.js",
+    "runtime-main.js.map": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/runtime-main.dc8caa15.js.map",
+    "static/js/2.00db7d0a.chunk.js": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/2.00db7d0a.chunk.js",
+    "static/js/2.00db7d0a.chunk.js.map": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/2.00db7d0a.chunk.js.map",
+    "static/js/3.5c544fc3.chunk.js": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/3.5c544fc3.chunk.js",
+    "static/js/3.5c544fc3.chunk.js.map": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/3.5c544fc3.chunk.js.map",
+    "index.html": "/ultimate-tic-tac-toe-react-hooks-v2/index.html",
+    "static/js/2.00db7d0a.chunk.js.LICENSE.txt": "/ultimate-tic-tac-toe-react-hooks-v2/static/js/2.00db7d0a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.630dae72.js",
-    "static/js/2.b889af25.chunk.js",
-    "static/js/main.bcd89ce4.chunk.js"
+    "static/js/runtime-main.dc8caa15.js",
+    "static/js/2.00db7d0a.chunk.js",
+    "static/js/main.662cfd07.chunk.js"
   ]
 }
