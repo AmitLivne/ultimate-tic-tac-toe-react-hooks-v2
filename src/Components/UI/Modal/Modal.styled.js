@@ -1,18 +1,22 @@
 import styled from "styled-components";
 
 export const StyledModal = styled.div`
-  font-size: 20px;
+  font-size: 14px;
   background: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
   border-radius: 0.5em;
   position: relative;
-  width: 35em;
+  width: 90%;
   z-index: 100;
   overflow: hidden;
+  @media (min-width: 620px) {
+    font-size: 20px;
+    width: 35em;
+}
 `;
 
 export const ModalHeader = styled.header`
-  font-size: 26px;
+  font-size: 14px;
   padding: 0.4em 0.7692em;
   display: flex;
   align-items: center;
@@ -21,6 +25,9 @@ export const ModalHeader = styled.header`
   height: 3.077em;
   line-height: 3.077em;
   background: #0f70b8;
+  @media (min-width: 620px) {
+    font-size: 26px;
+}
 `;
 export const ModalBody = styled.section`
   font-weight: bold;

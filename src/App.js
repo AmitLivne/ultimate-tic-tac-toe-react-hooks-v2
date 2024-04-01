@@ -1,6 +1,6 @@
-import { GlobalStyles } from "./Components/Styles/Global.styled";
-import { AppContainer} from "./Components/Styles/AppContainer.styled";
-import { boardSize } from "./Utils/Utils";
+import { GlobalStyles } from "./Assets/Styles/Global.styled";
+import { AppContainer} from "./Assets/Styles/AppContainer.styled";
+import {boardSize} from "./Utils/Constants";
 import Game from "./Components/Game/Game";
 
 function App() {
